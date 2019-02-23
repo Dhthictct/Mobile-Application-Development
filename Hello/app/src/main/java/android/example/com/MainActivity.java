@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         getInfo();
-        Log.d("MainActivity", "Hello World");
+        Log.i("MainActivity", "MainActivity layout is complete");
     }
 
 
